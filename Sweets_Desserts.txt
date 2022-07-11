@@ -3,3 +3,7 @@ This is sweets and dessert counter
 1) KHEER
 2) HALWA
 3) LADDOO
+4) ICE CREAM
+   a) Vanilla brick
+   b) Chocolate cone
+   c) Butterscotch Cup
