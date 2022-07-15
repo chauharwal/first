@@ -4,10 +4,9 @@ This is the menu for our new Bakery
 2) Chocolate Cake - 350 INR
 3) Pineapple Cake - 300 INR
 4) Blackforest Cake -325 INR
-5) Casata Cake - 450 INR
-6) Strawberry Cake -250 INR
-7) Pineapple pastry -25 INR
-8) Chocolate Pastry -40 INR
-9) Butterscotch Pastry - 35 INR
-10) Blackforest Pastry - 25 INR
-11) Casata Pastry - 50 INR
+5) Casata Pastry - 450 INR
+6) Pineapple pastry -25 INR
+7) Chocolate Pastry -40 INR
+8) Butterscotch Pastry - 35 INR
+9) Blackforest Pastry - 25 INR
+10) Casata Pastry - 50 INR

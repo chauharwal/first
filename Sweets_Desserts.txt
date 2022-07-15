@@ -15,3 +15,5 @@ This is sweets and dessert counter
 5) LAUJ 
    a)Lauki Lauj
    b)Kalakand
+6)JALEBI
+7)IMARTI
