@@ -12,3 +12,6 @@ This is sweets and dessert counter
    a) Vanilla brick
    b) Chocolate cone
    c) Butterscotch Cup
+5) LAUJ 
+   a)Lauki Lauj
+   b)Kalakand
