@@ -6,7 +6,6 @@ This is sweets and dessert counter
    b)Moong Daal Halwa
    c)Besan Halwa
    d)Sooji Halwa
-   e)Atta Halwa
 3) LADDOO
 4) ICE CREAM
    a) Vanilla brick
@@ -17,3 +16,7 @@ This is sweets and dessert counter
    b)Kalakand
 6)JALEBI
 7)IMARTI
+8) GULAB JAMUN
+9) RASOGULLA
+10) RASMALAI
+11) PUDDING
